@@ -1,68 +1,60 @@
-# Lost Bay Aviation
+# Company Profile
 
-## Company Information
-
-Company Name:
+## Operator
 Lost Bay Aviation
 
-Callsign:
-Lost Bay
+## Home Hub
+KPNS — Pensacola International Airport
 
-Tail Number Prefix:
-N401LB
+## Operational Identity
 
-Primary Hub:
-KPNS
-
-Operational Category:
-Hybrid Regional Charter Operator
-
----
-
-## Operational Focus
-
-Primary Services:
-- Executive Regional Charter
-- Premium Leisure Charter
-
-Primary Regions:
-- Florida
-- Bahamas
-- Northern Caribbean
+Lost Bay Aviation currently operates as a boutique regional charter operator focused on:
+- premium leisure transport
+- coastal charter operations
+- secondary-airport access
+- Florida and island routing
+- relaxed but professional passenger experience
 
 ---
 
-## Company Philosophy
+# Operational Philosophy
 
-Lost Bay Aviation specializes in personalized regional travel experiences focused on coastal luxury, island access, and executive flexibility.
-
-Operations prioritize:
-- Scenic routing
-- Passenger comfort
-- Flexible charter scheduling
-- Boutique regional access
-
----
-
-## Initial Fleet
-
-Aircraft:
-Cessna Corvalis 400TT
-
-Configuration:
-Single aircraft owner-operator
+The company emphasizes:
+- realistic regional routing
+- operational efficiency
+- VFR-focused charter operations
+- smooth passenger experience
+- weather-aware flight planning
+- low-drama professional aviation operations
 
 ---
 
-## Flight Rules
+# Emerging Client Profile
 
-Preferred Operations:
-Primarily VFR
-
-IFR Usage:
-As operationally required
-
-Altitude Limitation:
-Generally below 12,500 feet due to oxygen limitations.
+Typical clients currently include:
+- leisure travelers
+- resort guests
+- private family travel
+- upscale regional passengers
+- clients seeking quieter destinations outside major tourist corridors
 
 ---
+
+# Regional Focus
+
+Primary operational focus:
+- Florida Gulf Coast
+- Florida Peninsula
+- Florida Keys
+- Bahamas capable operations
+
+---
+
+# Company Reputation Trends
+
+Early operational trends indicate:
+- smooth passenger experience
+- professional cockpit management
+- efficient Florida coastal routing
+- stable VFR operational profile
+- preference toward visually immersive regional charter work
