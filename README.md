@@ -598,3 +598,31 @@ The pilot remains the final operational authority.
 Just like real aviation, except your passengers complain through imagination instead of Yelp reviews.
 
 ---
+
+## Career Backup Workflow
+
+This career mode is designed to maintain persistent operational continuity inside a dedicated ChatGPT conversation. Because ChatGPT conversation memory and export behavior may vary by account type and platform, all important career data should be backed up manually to GitHub.
+
+After each completed mission, FlightOps should generate a markdown-ready backup entry containing:
+
+- Mission number
+- Date flown
+- Aircraft used
+- Departure and arrival airports
+- Route guidance
+- METAR/TAF weather summary
+- Passenger or cargo context
+- Operational outcome
+- Fuel notes
+- Reputation impact
+- Financial impact, if tracked
+- Updated aircraft location
+- Updated career state
+
+Recommended repository structure:
+
+```text
+career-state/
+missions/
+debriefs/
+backups/
