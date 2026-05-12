@@ -1,60 +1,75 @@
 # Company Profile
 
 ## Operator
+
 Lost Bay Aviation
 
 ## Home Hub
+
 KPNS — Pensacola International Airport
+
+## Current Operating Position
+
+KAPF — Naples Airport  
+GA Small Parking 121
+
+---
 
 ## Operational Identity
 
-Lost Bay Aviation currently operates as a boutique regional charter operator focused on:
+Lost Bay Aviation is developing into a boutique regional charter operator specializing in:
+
 - premium leisure transport
-- coastal charter operations
-- secondary-airport access
-- Florida and island routing
-- relaxed but professional passenger experience
+- coastal and island access
+- secondary-airport operations
+- Florida Gulf Coast / Keys / South Florida routing
+- smooth VFR-focused passenger experiences
 
 ---
 
-# Operational Philosophy
+## Current Client Profile
 
-The company emphasizes:
-- realistic regional routing
-- operational efficiency
-- VFR-focused charter operations
-- smooth passenger experience
-- weather-aware flight planning
-- low-drama professional aviation operations
+Typical clients include:
 
----
-
-# Emerging Client Profile
-
-Typical clients currently include:
-- leisure travelers
+- upscale leisure travelers
 - resort guests
-- private family travel
-- upscale regional passengers
-- clients seeking quieter destinations outside major tourist corridors
+- private family travelers
+- clients avoiding major commercial terminals
+- passengers seeking scenic but practical regional transport
 
 ---
 
-# Regional Focus
+## Known Client Profiles
 
-Primary operational focus:
-- Florida Gulf Coast
-- Florida Peninsula
-- Florida Keys
-- Bahamas capable operations
+### Chad Johnson
+
+- repeat premium leisure client
+- weight: 200 lb
+- aviation-curious
+- asks many cockpit/system questions
+- should generally be seated aft unless operationally appropriate
+- showed strong interest in airline traffic during Miami overflight
+- possible future PPL curiosity risk
+
+### Nancy Johnson
+
+- repeat premium leisure client
+- weight: 160 lb
+- scenery-focused
+- calm passenger profile
+- enjoys photo opportunities and scenic routing
 
 ---
 
-# Company Reputation Trends
+## Brand Direction
 
-Early operational trends indicate:
-- smooth passenger experience
-- professional cockpit management
-- efficient Florida coastal routing
-- stable VFR operational profile
-- preference toward visually immersive regional charter work
+Lost Bay Aviation’s early reputation is forming around:
+
+- relaxed but competent charter operations
+- professional handling of real-world operational changes
+- scenic but realistic routing
+- efficient aircraft operation
+- premium but not theatrical passenger service
+
+Tone:
+**competent coastal charter with just enough polish to keep rich people happy.**

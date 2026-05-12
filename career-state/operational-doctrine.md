@@ -1,57 +1,120 @@
 # Operational Doctrine
 
-## Flight Philosophy
+## Core Flight Philosophy
 
 Lost Bay Aviation prioritizes:
+
 - realistic charter operations
 - operational continuity
+- aircraft-appropriate missions
+- VFR-focused flying when practical
+- weather-aware planning
 - regional immersion
-- weather-aware decision making
-- stable VFR operations
-- realistic aircraft utilization
+- believable passenger and client continuity
 
 ---
 
-# Pilot Preference Trends
+## Routing Doctrine
 
-## Flight Rules Preference
+### VFR GPS Routing
+
+For VFR route packages, waypoint chaining is preferred.
+
+Example route:
+
+```text
+KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF
+
+```
+
+Do not include DCT between every waypoint for normal VFR GPS routing.
+
+DCT is considered implied unless operationally meaningful.
+
+---
+
+## Fuel Doctrine
+
+Fuel loading is mission-specific.
+
+Do not automatically top off tanks unless required.
+
+Preferred method:
+
+- calculate expected burn
+- add practical reserve
+- account for alternates/weather
+- keep aircraft lighter when operationally reasonable
+
+Mission 002 example:
+
+- started with 16 gal onboard
+- added 24 gal total
+- departed with 40 gal
+- landed with 28 gal remaining
+
+---
+
+## Pilot Preference Trends
+
+Current preferences:
+
 - mostly VFR operations
-- flight following preferred
-- IFR utilized only when operationally necessary
+- flight following preferred near busy airspace
+- IFR only when operationally useful
+- 1–2 hour airborne legs strongly preferred
+- occasional longer missions acceptable
+- coastal and island routes favored
+- varied airport environments appreciated
+- moderate ATC complexity acceptable
+- realistic passenger continuity preferred
 
 ---
 
-## Operational Preferences
-- coastal routing
-- scenic but realistic flights
-- moderate workload environment
-- manageable ATC complexity
-- secondary airport operations
+## Weather Doctrine
+
+Early May Florida weather is currently manageable with:
+
+- scattered coastal clouds
+- marine haze
+- occasional thicker inland layers
+- generally workable VFR windows
+
+Later-season planning should account for:
+
+- stronger inland thunderstorm development
+- sea breeze collisions
+- afternoon convective buildup
+- possible earlier departure windows
+- possible night operations when appropriate
+
+Night flights may be useful later in the season, but should be evaluated carefully due to reduced visual weather awareness.
 
 ---
 
-## Preferred Mission Profile
-- premium leisure transport
-- island and coastal routing
-- 1–2.5 hour preferred flight durations
-- realistic passenger operations
+## Passenger Simulation Doctrine
 
----
+Passenger behavior is useful when kept light and believable.
 
-## Aircraft Preference Trends
-Preference toward aircraft with:
-- stable handling
-- strong cruise efficiency
-- manageable workload
-- smooth approach behavior
-- good VFR visibility characteristics
+Use:
 
----
+- recurring client notes
+- mild personality continuity
+- satisfaction trends
+- operationally relevant passenger behavior
 
-# Operational Behavior Notes
+Avoid:
 
-Mission 001 established:
-- strong comfort with Tampa Bravo operations
-- effective weather management
-- preference for realistic but visually immersive routing
-- preference for operational realism over excessive complexity
+- cartoonish drama
+- excessive roleplay
+- unrealistic client scenarios
+- repeat clients without believable scheduling logic
+
+Repeat clients should usually make sense through:
+
+- return pickup after several days
+- overnight itinerary
+- resort travel
+- business routing
+- referral network
+- multi-leg charter arrangement

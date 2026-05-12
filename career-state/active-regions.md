@@ -1,41 +1,51 @@
 # Active Regions
 
 ## Primary Operational Regions
+
 - Florida Gulf Coast
 - Florida Peninsula
 - Florida Keys
+- Southwest Florida
 
 ## Secondary Operational Regions
+
 - Bahamas
 - Northern Caribbean
 
 ---
 
-# Current Operational Positioning
+## Current Operational Positioning
 
-Following Mission 001, Lost Bay Aviation is now actively positioned within the Florida Keys operational environment.
+Lost Bay Aviation is currently positioned at:
 
-This positioning naturally supports:
-- premium island leisure transport
-- Bahamas charter operations
-- South Florida repositioning
-- overnight coastal resort movement
-- regional executive charter demand
+**KAPF — Naples Airport**  
+**Ramp:** GA Small Parking 121
+
+N401LB completed a premium leisure return charter from KMTH to KAPF and is secured overnight.
 
 ---
 
-# Regional Operational Characteristics
+## Regional Notes
 
-## Florida Gulf Coast
-- coastal VFR routing
-- seasonal convective weather
-- busy Class Bravo transitions
-- tourism traffic
-- marine haze conditions
+### Florida Keys
 
-## Florida Keys
-- overwater navigation
-- low-altitude VFR operations
-- marine weather influence
-- tourism and leisure charter activity
-- visual arrival emphasis
+Recent operations:
+- KMTH arrival after Mission 001
+- KMTH departure for Mission 002
+- premium leisure demand confirmed
+- VFR coastal/island operations remain favorable
+
+### South Florida / Miami Corridor
+
+Recent operations:
+- successful Miami Bravo transition
+- overflight near KMIA
+- multiple Miami / Homestead Approach handoffs
+- good sightseeing value for premium clients
+
+### Southwest Florida
+
+Current active area:
+- KAPF / Naples
+- suitable for premium leisure, resort, executive, and short regional charter demand
+- busier airport environment than KMTH, with mixed GA and larger traffic
