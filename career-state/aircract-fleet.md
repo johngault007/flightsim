@@ -5,56 +5,83 @@
 # N401LB
 
 ## Aircraft
+
 Cessna 400 Corvalis TT
 
-## Operational Role
-- premium leisure charter
-- regional executive transport
-- coastal VFR operations
-- island access operations
+## ATC Callsign
+
+Lost Bay 401 Lima Bravo
+
+## Livery
+
+MSFS 2024 default livery 1
 
 ---
 
 ## Current Status
 
 ### Current Location
-KMTH — Florida Keys Marathon International Airport
+
+KAPF — Naples Airport
 
 ### Parking
-Parking 2
 
-### Fuel Remaining
-16.1 gallons onboard
+GA Small Parking 121
 
-### Aircraft Status
+### Current Fuel
+
+- Left wing: 16 gal
+- Right wing: 12 gal
+- Total fuel remaining: 28 gal
+
+### Aircraft Condition
+
 - shutdown complete
-- passengers offloaded
+- passengers and baggage offloaded
 - secured overnight
-- no maintenance discrepancies reported
+- no discrepancies reported
 
 ---
 
-## Performance Notes
+## Last Completed Mission
 
-Mission 001 demonstrated:
-- excellent cruise efficiency
-- stable engine performance
-- efficient long-range coastal operation
-- strong approach handling
-- stable VFR platform characteristics
-
-Typical cruise profile observed:
-- 132–134 KT IAS
-- 8.9 GPH fuel burn
-- 1900 RPM cruise setting
-- efficient Florida coastal routing capability
+MISSION_002_KMTH_KAPF
 
 ---
 
-## Current Operational Notes
+## Operational Role
 
-Aircraft is currently positioned for:
-- Florida Keys continuation operations
-- Bahamas routing opportunities
-- South Florida repositioning
-- overnight leisure charter demand
+N401LB is currently serving as Lost Bay Aviation’s primary aircraft for:
+
+- premium leisure charter
+- coastal VFR operations
+- Florida Keys and South Florida routing
+- light executive transport
+- short-to-medium regional charter legs
+
+---
+
+## Performance Trends
+
+Observed performance remains excellent.
+
+Recent cruise efficiency:
+- 5,500 ft cruise
+- 19 inHg manifold pressure
+- 1850–1870 RPM
+- 8.3–9.8 GPH once leaned properly
+- 130–135 KT IAS
+- 146–150 KT GS
+
+Mission 002 fuel burn:
+- starting fuel: 40 gal
+- final fuel: 28 gal
+- fuel used: 12 gal
+
+---
+
+## Operational Notes
+
+The aircraft continues to perform well at lower cruise altitudes and remains highly suitable for the current VFR-focused premium leisure charter profile.
+
+No maintenance concerns currently exist.

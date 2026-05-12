@@ -68,3 +68,34 @@ The operation successfully established the company's early premium leisure chart
 
 ## Mission Outcome
 SUCCESSFUL
+
+---
+
+# Mission 002 — KMTH → KAPF
+
+**Mission Type:** Premium Leisure Return Charter  
+**Aircraft:** Cessna 400 Corvalis TT (N401LB)  
+**Passengers:** Chad Johnson, Nancy Johnson  
+**Payload:** 2 pax + 60 lb baggage  
+
+**Route:**  
+KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF
+
+**Fuel:**
+- Departure: 40 gal
+- Arrival: 28 gal
+- Burn: 12 gal
+
+**Operational Highlights:**
+- VFR departure from KMTH RWY 07
+- Miami Bravo transition approved
+- Scenic overflight near KMIA
+- Multiple Miami / Homestead ATC handoffs
+- Efficient leaned cruise at 5,500 ft
+- KAPF runway change from expected 14 to active 23
+- Tower-directed go-around due to runway traffic conflict
+- Successful resequencing and landing RWY 23
+
+**Outcome:** SUCCESSFUL  
+**Aircraft Status:** No discrepancies  
+**Current Position:** KAPF — GA Small Parking 121 (overnight secured)
