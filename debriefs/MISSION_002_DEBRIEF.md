@@ -3,120 +3,240 @@
 ## Pilot Assessment
 
 ### Overall Impression
-Mission 002 was much closer to the ideal Lost Bay Aviation mission profile.
+Mission 002 aligned extremely well with Lost Bay Aviation’s emerging ideal mission profile.
 
-The shorter route, manageable workload, and varied airport environments made this a highly enjoyable and operationally realistic charter.
+The shorter route length, realistic operational complexity, varied airport environments, and manageable workload created a highly immersive and believable premium charter experience.
 
-The Miami Bravo transit added realism without significantly increasing workload.
+The Miami Bravo transition added realism without creating excessive workload.
+
+### Workload Assessment
+Moderate
+
+Workload remained realistic and enjoyable.
+
+Complexity emerged naturally through:
+
+- VFR departure from the Florida Keys
+- flight following
+- Miami Bravo transit
+- ATC handoffs
+- runway reassignment
+- tower-directed go-around
+
+No operational complexity felt artificial.
 
 ---
 
-# Aircraft Assessment
+## Aircraft Assessment
 
-## Cessna 400 Corvalis TT
+### Aircraft
+Cessna 400 Corvalis TT
 
 ### Performance
+Observed aircraft performance:
+
 - excellent lower-altitude cruise performance
-- highly responsive controls
 - stable engine operation
-- predictable approach and arrival handling
-- no aircraft discrepancies
+- highly responsive controls
+- predictable arrival handling
+- strong VFR mission suitability
+- efficient short-to-medium regional performance
 
-### Fuel Efficiency
-Mission fuel burn was exceptionally efficient.
+### Fuel Performance
+Observed cruise trends:
 
-Observed trends:
-- strong leaning response
-- cruise fuel flow reduced to approximately 8.3 GPH
-- total mission burn: 12 gallons
+- excellent leaning response
+- fuel flow reduced from 10.7 GPH to approximately 8.3 GPH
+- efficient cruise behavior at lower altitude
 
-The Corvalis remains extremely well-suited for short-to-medium premium charter work.
+Mission fuel summary:
+
+| Category | Amount |
+|---|---:|
+| Fuel Before Uplift | 16 gal |
+| Fuel Added | 24 gal |
+| Departure Fuel | 40 gal |
+| Fuel Used | 12 gal |
+| Final Fuel | 28 gal |
+
+### Maintenance Notes
+No discrepancies reported.
+
+Aircraft remained fully operational post-flight.
 
 ---
 
-# Environmental Assessment
+## Environmental Assessment
 
-## Weather
+### Weather
+Observed conditions included:
+
 - mild marine haze
-- scattered to broken coastal cloud layers
-- temporary inland darkening cloud deck
+- scattered to broken cloud layers
+- inland darkening cloud development
 - no significant turbulence
-- VFR remained fully manageable
+- improving coastal visibility southbound
 
-Weather conditions required monitoring but did not materially affect mission execution.
+### Operational Weather Impact
+Weather remained fully operationally manageable.
+
+No weather deviations were required.
 
 ---
 
-# Operational Feedback
+## ATC / Airspace Assessment
 
-Positive elements:
-- VFR departure from a smaller airport
+### ATC Experience
+Highly immersive and realistic.
+
+ATC interactions included:
+
+- Miami Approach
+- Homestead Approach
+- sector handoffs
+- Bravo clearance
+- tower sequencing
+
+Arrival operations included realistic runway reassignment and traffic sequencing.
+
+### Airspace Complexity
+Moderate
+
+The Miami corridor introduced meaningful workload while remaining well within enjoyable operational complexity.
+
+---
+
+## Operational Feedback
+
+### Positive Elements
+- VFR Florida Keys departure
+- realistic flight following
 - Miami Bravo transition
 - scenic overflight near KMIA
 - ATC handoff realism
 - Naples arrival environment
-- realistic runway reassignment
-- normal tower-directed go-around event
-- efficient cruise operations
+- runway reassignment realism
+- tower-directed go-around
+- efficient fuel planning
+- shorter mission pacing
 
-Arrival notes:
-- go-around due to runway traffic was handled professionally
-- passenger communication remained calm and effective
-- event did not negatively affect the charter experience
+### Operational Challenges
+
+#### Tower-Directed Go-Around
+A normal go-around was required due to runway traffic conflict.
+
+Pilot response:
+
+- professional
+- calm
+- operationally correct
+
+Passenger communication remained effective.
+
+### Mission Realism Assessment
+Excellent.
+
+Mission 002 strongly reinforced the intended “living charter operation” feel.
 
 ---
 
-# Future Operational Preference Trends
+## Passenger Experience
 
-Mission 002 reinforced:
+### Passenger Notes
 
-- 1–2 hour missions strongly preferred
-- VFR-focused operations
-- moderate ATC complexity acceptable
-- varied airport environments preferred
-- efficient aircraft operation appreciated
-- realistic operational disruptions improve immersion
+#### Chad Johnson
+Passenger remained:
 
-Multiple shorter same-day missions remain possible depending on pilot availability.
-
----
-
-# Passenger Experience Notes
-
-## Client Continuity
-
-Repeat clients are welcome when operationally believable.
-
-Back-to-back repeat clients should generally require narrative justification such as:
-- overnight pickup
-- resort continuation
-- itinerary changes
-- multi-leg charter activity
-
-## Passenger Profiles
-
-### Chad Johnson
 - aviation-curious
-- highly engaged with aircraft operations
-- should not be seated near cockpit controls
-- possible future flight training curiosity
+- highly engaged
+- operationally harmless
+- still not authorized near cockpit controls
 
-### Nancy Johnson
+Strong candidate for future believable continuity if operational logic supports it.
+
+Strong candidate for **not** receiving instructional access.
+
+#### Nancy Johnson
+Passenger remained:
+
+- relaxed
 - scenery-focused
-- relaxed premium leisure traveler
-- positive repeat-client profile
+- positive premium leisure profile
 
-Passenger simulation continues to improve immersion when kept light and believable.
+### Client Continuity Notes
+Repeat-client continuity worked well in this mission because it was operationally justified as a return charter.
+
+This should remain occasional rather than routine.
 
 ---
 
-# Dispatch Feedback
+## Preference Learning
 
-Current FlightOps pacing and tone are working well.
+Emerging pilot preferences reinforced:
 
-Operational realism remains the priority.
+- 1–2 hour flights strongly preferred
+- VFR-focused operations
+- moderate ATC complexity
+- varied airport environments
+- realistic operational disruptions
+- scenic but practical routing
+- immersive but grounded aviation scenarios
 
-Areas for continued improvement:
-- stronger narrative continuity between repeat-client missions
-- smarter client itinerary storytelling
-- continued long-term passenger continuity tracking
+Multiple shorter same-day missions may be desirable depending on availability.
+
+---
+
+## Dispatch Feedback
+
+FlightOps performed well in:
+
+- continuity
+- pacing
+- ATC realism
+- environmental immersion
+- believable charter context
+
+Improvement opportunities:
+
+- smarter repeat-client spacing
+- more nuanced itinerary continuity
+- longer-term client tracking logic
+
+---
+
+## Career Impact
+
+### Reputation Impact
+Positive
+
+Mission 002 strengthened Lost Bay Aviation’s reputation as:
+
+- calm under pressure
+- operationally competent
+- capable in busier Florida airspace
+- premium without theatrical nonsense
+- efficient and professional
+
+### Operational Identity Changes
+Reinforced operating identity:
+
+- premium regional leisure charter
+- VFR coastal specialist
+- boutique Florida charter operator
+- moderate complexity tolerance
+
+### Aircraft State Changes
+
+Post-flight aircraft state:
+
+- Location: KAPF
+- Parking: GA Small Parking 121
+- Fuel Remaining: 28 gal
+- No discrepancies
+
+---
+
+## Final Mission Outcome
+
+Status:
+SUCCESSFUL
