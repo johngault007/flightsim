@@ -2,84 +2,113 @@
 
 ---
 
-# Mission 001 Reputation Notes
+## Current Reputation Summary
 
-## Operational Impression
+Lost Bay Aviation is developing a positive early reputation as a boutique coastal charter operator focused on:
+
+- Premium leisure transport
+- Smooth VFR operations
+- Scenic but practical routing
+- Professional passenger handling
+- Calm response to normal operational disruptions
+- Efficient aircraft operation
+
+---
+
+## Reputation Themes
+
+### Strengths
+
+- Passenger comfort
+- Weather-aware decision making
+- Realistic regional routing
+- Efficient fuel management
+- Calm ATC and airspace handling
+- Premium leisure client suitability
+
+### Watch Items
+
+- Avoid overusing repeat clients without believable scheduling logic
+- Continue balancing scenic routing with operational realism
+- Keep passenger simulation light and believable
+
+---
+
+# Mission Reputation Entries
+
+---
+
+## Mission 001 — KPNS → KMTH
+
+### Mission Type
+Premium Leisure Charter
+
+### Reputation Impact
+Positive
+
+### Reputation Notes
 Lost Bay Aviation completed a smooth inaugural premium leisure charter operation between Pensacola and the Florida Keys.
 
 Operational strengths demonstrated:
-- efficient regional routing
-- smooth passenger experience
-- professional ATC coordination
-- effective weather management
-- stable VFR operations
-- efficient fuel management
+
+- Efficient regional routing
+- Smooth passenger experience
+- Professional ATC coordination
+- Effective weather management
+- Stable VFR operations
+- Efficient fuel management
+
+### Brand Development
+Mission 001 established the company’s early identity as a boutique coastal charter operator with a relaxed but professional operational style.
 
 ---
 
-## Passenger Experience Trends
+## Mission 002 — KMTH → KAPF
 
-Passengers reportedly experienced:
-- smooth coastal routing
-- scenic Florida and Gulf views
-- stable arrival into the Keys
-- relaxed premium charter atmosphere
+### Mission Type
+Premium Leisure Return Charter
 
----
+### Client Type
+Repeat premium leisure clients
 
-## Emerging Reputation
+### Reputation Impact
+Positive
 
-Early operational identity suggests:
-- boutique coastal charter operator
-- relaxed but professional operational style
-- strong Florida regional specialization
-- preference toward visually immersive leisure operations
-
----
-
-# Reputation Update — Mission 002
-
-**Route:** KMTH → KAPF  
-**Client Type:** Premium Leisure / Repeat Client
-
-## Reputation Impact
-
-**Positive**
-
+### Reputation Notes
 Lost Bay Aviation reinforced its premium regional charter image through:
 
-- efficient and smooth VFR operations
-- successful Miami Bravo transit
-- scenic passenger routing over South Florida
-- professional handling of a tower-directed go-around
-- calm passenger communication during an unexpected arrival event
-- strong fuel efficiency and operational discipline
+- Efficient and smooth VFR operations
+- Successful Miami Bravo transit
+- Scenic passenger routing over South Florida
+- Professional handling of a tower-directed go-around
+- Calm passenger communication during an unexpected arrival event
+- Strong fuel efficiency and operational discipline
 
-## Client Confidence
-
+### Client Confidence
 Passenger confidence remained high.
 
 The go-around did not negatively affect client perception due to clear and confident pilot communication.
 
-## Brand Development Notes
+### Brand Development
+Mission 002 strengthened Lost Bay Aviation’s emerging reputation as:
 
-Emerging client-facing identity:
+- Calm under pressure
+- Operationally competent
+- Scenic but practical
+- Capable in busier Florida airspace
+- Premium without unnecessary theatrics
 
-- calm under pressure
-- operationally competent
-- scenic but practical premium service
-- capable in busier Florida airspace
-- boutique charter experience without unnecessary theatrics
+### Client Continuity Notes
 
-## Client Continuity Notes
+#### Chad Johnson
+- Aviation-curious
+- Highly engaged with flight operations
+- Likely future repeat client if scheduling makes sense
+- Possible future flight training curiosity
 
-**Chad Johnson**
-- aviation-curious
-- highly engaged with flight operations
-- likely future repeat client
-- potential future "I think I want to learn to fly" arc
+#### Nancy Johnson
+- Scenery-focused
+- Relaxed traveler
+- Positive premium leisure passenger profile
 
-**Nancy Johnson**
-- scenery-focused
-- relaxed traveler
-- positive premium leisure passenger profile
+---

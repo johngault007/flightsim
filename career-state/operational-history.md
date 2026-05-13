@@ -2,100 +2,101 @@
 
 ---
 
-# Mission 001
+## 2026-05-11 — Company Launch
 
-## Route
+Lost Bay Aviation officially began charter operations.
+
+Initial operating profile established:
+
+- Boutique regional charter operator
+- Premium leisure transport focus
+- Coastal and island routing emphasis
+- VFR-forward operational style
+- Florida-based launch strategy
+
+Primary aircraft:
+
+- N401LB
+- Cessna 400 Corvalis TT
+
+Home hub:
+
+- KPNS — Pensacola International Airport
+
+---
+
+## 2026-05-11 — Mission 001 Completed
+
+Mission:
+MISSION_001_KPNS_KMTH
+
+Route:
+
 KPNS → KMTH
 
-## Mission Type
-Premium Leisure Charter
+Summary:
 
-## Aircraft
-Cessna 400 Corvalis TT — N401LB
+Lost Bay Aviation completed its inaugural premium leisure charter from Pensacola to Marathon.
 
-## Flight Rules
-VFR with Flight Following
+Operational highlights:
 
----
+- Successful long-range Florida charter operation
+- Coastal routing environment
+- Tampa Bravo transit
+- Florida Keys arrival
+- Strong passenger experience
+- No aircraft discrepancies
 
-## Operational Summary
+Post-mission aircraft state:
 
-Lost Bay Aviation completed its inaugural operational charter flight from Pensacola to Marathon in the Florida Keys.
-
-The mission included:
-- Florida Gulf coastal routing
-- overwater VFR operations
-- Tampa Bravo transition
-- weather-aware descent planning
-- successful Keys arrival beneath developing weather
-
-The operation successfully established the company's early premium leisure charter identity.
+- KMTH
+- Secured overnight
+- Operationally available
 
 ---
 
-## Flight Statistics
+## 2026-05-13 — Mission 002 Completed
 
-| Category | Value |
-|---|---:|
-| Approx Flight Time | ~3.3 hrs |
-| Fuel Used | 32.9 gal |
-| Fuel Remaining | 16.1 gal |
-| Passengers | 2 |
-| Diversions | 0 |
-| Delays | 0 |
+Mission:
+MISSION_002_KMTH_KAPF
 
----
+Route:
 
-## Operational Notes
+KMTH → KAPF
 
-### Weather
-- scattered coastal cloud layers
-- marine haze
-- developing convective weather near arrival
+Summary:
 
-### ATC
-- Pensacola Approach
-- Jacksonville Center
-- Tampa Approach
-- successful Tampa Bravo transition
+Completed premium leisure return charter from Marathon to Naples.
 
-### Arrival
-- VFR Runway 25
-- left downwind entry
-- stable visual approach into KMTH
+Operational highlights:
+
+- VFR departure from Florida Keys
+- Miami Bravo transit
+- Scenic South Florida routing
+- Tower-directed go-around at KAPF
+- Successful resequenced arrival
+- Strong operational execution
+
+Post-mission aircraft state:
+
+- KAPF
+- GA Small Parking 121
+- 28 gallons fuel remaining
+- No discrepancies
 
 ---
 
-## Mission Outcome
-SUCCESSFUL
+## Current Operational Status
+
+Aircraft currently positioned:
+
+KAPF — Naples Airport
+
+Current operating posture:
+
+- Southwest Florida active
+- South Florida accessible
+- Florida Keys continuity possible
+- Bahamas expansion viable
 
 ---
-
-# Mission 002 — KMTH → KAPF
-
-**Mission Type:** Premium Leisure Return Charter  
-**Aircraft:** Cessna 400 Corvalis TT (N401LB)  
-**Passengers:** Chad Johnson, Nancy Johnson  
-**Payload:** 2 pax + 60 lb baggage  
-
-**Route:**  
-KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF
-
-**Fuel:**
-- Departure: 40 gal
-- Arrival: 28 gal
-- Burn: 12 gal
-
-**Operational Highlights:**
-- VFR departure from KMTH RWY 07
-- Miami Bravo transition approved
-- Scenic overflight near KMIA
-- Multiple Miami / Homestead ATC handoffs
-- Efficient leaned cruise at 5,500 ft
-- KAPF runway change from expected 14 to active 23
-- Tower-directed go-around due to runway traffic conflict
-- Successful resequencing and landing RWY 23
-
-**Outcome:** SUCCESSFUL  
-**Aircraft Status:** No discrepancies  
-**Current Position:** KAPF — GA Small Parking 121 (overnight secured)

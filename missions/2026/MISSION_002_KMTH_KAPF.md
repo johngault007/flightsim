@@ -1,228 +1,274 @@
 # Mission 002 — KMTH to KAPF
 
-## Mission Type
+## Mission Overview
 
+### Mission Type
 Premium Leisure Return Charter
 
-## Operator
+### Mission Priority
+Standard
 
-Lost Bay Aviation
-
-## Aircraft
-
-Cessna 400 Corvalis TT — N401LB
-
-## ATC Callsign
-
-Lost Bay 401 Lima Bravo
-
----
-
-# Mission Assignment
-
-## Departure
-
-KMTH — Florida Keys Marathon International Airport
-
-## Destination
-
-KAPF — Naples Airport
-
-## Initial Departure Runway
-
-KMTH RWY 07
-
-## Final Landing Runway
-
-KAPF RWY 23
-
-## Flight Rules
-
+### Flight Rules
 VFR with Flight Following
 
 ---
 
-# Client Information
+## Operational Context
 
-## Passengers
+### Dispatch Summary
+Lost Bay Aviation completed a premium leisure return charter from Marathon to Naples.
 
-### Chad Johnson
+This mission continued the early Florida coastal and island-access operating pattern while introducing busier South Florida airspace, repeat client continuity, and a realistic tower-directed go-around event.
 
-- weight: 200 lb
-- repeat premium leisure client
-- aviation-curious
-- seated aft due to excessive cockpit curiosity
+### Operational Continuity
+Mission 002 originated from KMTH following Mission 001 and repositioned N401LB to KAPF.
 
-### Nancy Johnson
-
-- weight: 160 lb
-- repeat premium leisure client
-- scenery-focused
-- seated aft with Chad
-
-## Baggage
-
-60 lb total
+This created logical follow-on opportunities for Southwest Florida resort transport, Naples-area executive charter, South Florida repositioning, and future Florida Keys or Bahamas operations.
 
 ---
 
-# Fuel and Loading
+## Flight Assignment
 
-## Fuel Before Uplift
+### Operator
+Lost Bay Aviation
 
+### Aircraft
+Cessna 400 Corvalis TT — N401LB
+
+### ATC Callsign
+Lost Bay 401 Lima Bravo
+
+### Departure
+KMTH — Florida Keys Marathon International Airport
+
+### Destination
+KAPF — Naples Airport
+
+### Route Style
+VFR GPS routing with Flight Following
+
+---
+
+## Payload Assignment
+
+### Passengers
+
+#### Chad Johnson
+- Weight: 200 lb
+- Repeat premium leisure client
+- Aviation-curious
+- Seated aft due to excessive cockpit curiosity
+
+#### Nancy Johnson
+- Weight: 160 lb
+- Repeat premium leisure client
+- Scenery-focused
+- Seated aft with Chad
+
+### Cargo / Baggage
+60 lb total baggage
+
+### Operational Notes
+Payload was appropriate for the aircraft and mission length.
+
+Chad should remain seated away from cockpit controls unless Lost Bay Aviation wants an unscheduled systems lesson. It does not.
+
+---
+
+## Aircraft Operational Notes
+
+### Fuel Before Uplift
 - Left wing: 8 gal
 - Right wing: 8 gal
 - Total: 16 gal
 
-## Fuel Added
-
+### Fuel Added
 - Left wing: +12 gal
 - Right wing: +12 gal
 - Total uplift: 24 gal
 
-## Departure Fuel
-
+### Departure Fuel
 - Left wing: 20 gal
 - Right wing: 20 gal
 - Total: 40 gal
 
-## Final Fuel
-
+### Final Fuel
 - Left wing: 16 gal
 - Right wing: 12 gal
 - Total remaining: 28 gal
 
-## Fuel Used
-
+### Fuel Used
 12 gal
 
----
+### Cruise Profile
+Observed cruise configuration:
 
-# Route
-
-```text
-
-KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF
-
-```
-
-## Route Notes
-
-The route was pilot-built and optimized for practical VFR GPS use.
-
-Dispatch doctrine updated:
-
-- omit DCT in VFR GPS waypoint routes
-- waypoint chaining is sufficient unless direct routing needs explicit clarification
-
----
-
-# Timeline
-
-## Departure
-
-- engine start completed
-- flight plan sent to avionics
-- ATIS received
-- runway confirmed: KMTH RWY 07
-- off blocks and taxi started
-- pre-takeoff checklist complete
-- cleared for takeoff RWY 07
-- wheels up reported with “off”
-- top of climb reported shortly after departure
-
-## Cruise
-
-Initial cruise:
-
-- altitude: 5,500 ft
-- manifold pressure: 20 inHg initially, later 19 inHg
+- Altitude: 5,500 ft
+- Manifold pressure: 20 inHg initially, later 19 inHg
 - RPM: 1900 initially, later 1850–1870
-- fuel flow reduced from 10.7 GPH to 8.3 GPH after leaning
+- Fuel flow reduced from 10.7 GPH to 8.3 GPH after leaning
 - IAS generally 130–137 KT
 - GS generally 146–152 KT
 
-## ATC
+### Aircraft Status
+No aircraft discrepancies reported.
 
-Flight following:
+---
 
-- requested from Miami Approach
-- squawk: 0143
+## Weather & Environmental Considerations
 
+### Live Weather / Observed Conditions
+Observed conditions included:
+
+- clear to scattered early
+- mild haze
+- overcast / cloud development above 5,500 ft inland
+- darker cloud layer observed
+- coastal conditions improved after BHHIA
+
+### Operational Weather Notes
+Weather remained VFR and operationally manageable.
+
+No significant turbulence or weather deviations were reported.
+
+---
+
+## ATC / Airspace Environment
+
+### Flight Following
+Flight following was requested from Miami Approach.
+
+Assigned squawk:
+
+```text
+0143
+```
+
+### ATC Facilities / Sectors
 ATC sequence included:
 
 - Miami Approach
 - Homestead Approach
 - Miami Approach sector handoffs
 
+### Airspace Notes
 Major airspace event:
 
-- cleared through Miami Class Bravo
-- scenic overflight near KMIA
-- passengers observed airline traffic from above
-
-## Weather
-
-Conditions:
-
-- clear to scattered early
-- mild haze
-- overcast / cloud development above 5,500 ft inland
-- darker cloud layer observed but no major weather impact
-- coastal conditions improved after BHHIA
-
-Weather remained VFR and operationally manageable.
+- Cleared through Miami Class Bravo
+- Scenic overflight near KMIA
+- Passengers observed airline traffic from above
 
 ---
 
-# Arrival
+## Scenic / Geographic Highlights
 
-## Initial Expectation
+Mission highlights included:
 
-KAPF RWY 14 was initially expected.
+- Florida Keys departure
+- overwater routing
+- Miami Class Bravo transition
+- South Florida urban/coastal views
+- Naples arrival environment
 
-## Updated Arrival
+---
 
-ATIS Kilo changed expected runway to RWY 23.
+## Navigation Recommendation
 
-Pilot correctly identified RWY 23 as more favorable due to wind, avoiding a light tailwind on RWY 14.
+### Actual Route
 
-## Arrival Flow
+```text
+KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF
+```
 
-- top of descent initiated to 2,000 ft
-- cleared by tower for VFR landing RWY 23
-- initially sequenced for left downwind / left base
-- instructed to go around while on final due to runway traffic
-- flew runway heading
-- resequenced into right downwind
-- cleared again to land RWY 23
-- successful landing completed
+### Routing Notes
+The route was pilot-built and optimized for practical VFR GPS use.
 
-## Parking
+Dispatch doctrine updated:
 
+- Omit `DCT` in VFR GPS waypoint routes
+- Waypoint chaining is sufficient unless direct routing needs explicit clarification
+
+---
+
+## Estimated / Actual Flight Data
+
+| Category | Value |
+|---|---:|
+| Fuel Before Uplift | 16 gal |
+| Fuel Added | 24 gal |
+| Departure Fuel | 40 gal |
+| Fuel Used | 12 gal |
+| Final Fuel | 28 gal |
+| Passengers | 2 |
+| Baggage | 60 lb |
+| Diversions | 0 |
+| Go-Arounds | 1 |
+
+---
+
+## Operational Timeline
+
+### Departure
+- Engine start completed
+- Flight plan sent to avionics
+- ATIS received
+- Runway confirmed: KMTH RWY 07
+- Taxi and pre-takeoff checklist completed
+- Cleared for takeoff RWY 07
+- Wheels up reported with “off”
+- Top of climb reported shortly after departure
+
+### Cruise
+- Cruise altitude: 5,500 ft
+- Efficient leaned cruise established
+- Miami Bravo transition approved
+- Scenic overflight near KMIA
+- Multiple Miami / Homestead ATC handoffs
+
+### Arrival
+- Initial expectation: KAPF RWY 14
+- Updated ATIS Kilo changed expected runway to RWY 23
+- Pilot correctly identified RWY 23 as more favorable due to wind
+- Top of descent initiated to 2,000 ft
+- Cleared by tower for VFR landing RWY 23
+- Instructed to go around while on final due to runway traffic
+- Flew runway heading
+- Resequenced into right downwind
+- Cleared again to land RWY 23
+- Successful landing completed
+
+### Parking
 KAPF  
-Ramp: GA Small Parking 121
+GA Small Parking 121
 
 ---
 
-# Operational Events
+## Operational Event
 
-## Go-Around
-
+### Tower-Directed Go-Around
 Tower-directed go-around occurred on final due to runway traffic.
 
 Pilot communicated to passengers that the aircraft was going around to avoid merging with a 737 occupying the runway environment.
 
 Passenger reaction:
 
-- not significantly concerned
-- explanation was effective
-- confidence maintained
+- Not significantly concerned
+- Explanation was effective
+- Confidence maintained
 
 ---
 
-# Mission Outcome
+## Pilot Advisory
 
+Mission 002 confirmed that shorter premium leisure routes with moderate ATC complexity are highly suitable for Lost Bay Aviation’s current operating style.
+
+This mission also reinforced the value of realistic client continuity when operationally justified.
+
+---
+
+## Mission Outcome
+
+Status:
 SUCCESSFUL
 
 No:
@@ -231,11 +277,3 @@ No:
 - weather deviations
 - passenger issues
 - operational delays beyond normal airport flow
-
-Mission 002 was a strong example of:
-
-- short regional premium leisure charter
-- efficient VFR operations
-- realistic airspace complexity
-- passenger experience continuity
-- normal airport flow disruption handled professionally
