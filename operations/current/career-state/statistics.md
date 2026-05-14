@@ -6,14 +6,14 @@
 
 | Category | Value |
 |---|---:|
-| Missions Completed | 2 |
-| Successful Missions | 2 |
+| Missions Completed | 3 |
+| Successful Missions | 3 |
 | Partial Successes | 0 |
 | Diversions | 0 |
 | Go-Arounds | 1 |
-| Total Flight Hours | 4.9 |
-| Estimated Fuel Consumed | 50 gal |
-| Total Passengers Transported | 4 |
+| Total Flight Hours | 6.4 |
+| Estimated Fuel Consumed | 55 gal |
+| Total Passengers Transported | 5 |
 | Repeat Clients | 2 |
 | Longest Mission | Mission 001 |
 | Shortest Mission | Mission 002 |
