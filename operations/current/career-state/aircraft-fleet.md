@@ -21,21 +21,20 @@ MSFS 2024 Default Livery 1
 Active
 
 ### Current Location
-KAPF — Naples Airport
+KFXE — Fort Lauderdale Executive
 
 ### Parking
-GA Small Parking 121
+GA Small Parking 53
 
 ### Fuel State
-- Left Wing: 16 gal
-- Right Wing: 12 gal
-- Total Fuel Remaining: 28 gal
+- Left Wing: 19 gal
+- Right Wing: 16 gal
+- Total Fuel Remaining: 35 gal
 
 ### Aircraft Condition
-- Shutdown complete
-- Passengers and baggage offloaded
-- Secured overnight
-- No maintenance discrepancies reported
+- Secured
+- Airworthy
+- No discrepancies reported
 
 ### Last Completed Mission
 MISSION_002_KMTH_KAPF

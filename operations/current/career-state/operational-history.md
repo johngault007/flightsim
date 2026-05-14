@@ -100,3 +100,26 @@ Current operating posture:
 - Bahamas expansion viable
 
 ---
+
+## 14 May 2026 — Mission 003
+
+Executive charter completed from KAPF to KFXE.
+
+Client:
+Elias Mercer
+
+Result:
+Successful
+
+Operational notes:
+- Aircraft departed KAPF RWY 32
+- Route flown: KAPF KBUNK JMACA KFXE
+- Cruise conducted at 7,500 ft MSL
+- VFR maintained throughout
+- KFXE arrival runway changed from expected RWY 27 to assigned RWY 09
+- Aircraft repositioned to KFXE
+
+Aircraft state:
+N401LB secured at KFXE GA parking.
+
+---

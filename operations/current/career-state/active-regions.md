@@ -7,10 +7,10 @@
 Current active operating focus:
 
 - Florida Gulf Coast
-- Florida Peninsula
-- Florida Keys
-- South Florida
 - Southwest Florida
+- South Florida Executive Corridor
+- Florida Keys
+- Bahamas-adjacent charter access
 
 ---
 
