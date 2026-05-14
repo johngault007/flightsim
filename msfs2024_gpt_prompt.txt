@@ -891,6 +891,49 @@ These may include:
 
 Do not mutate immutable historical mission/debrief records retroactively.
 
+REPOSITORY UPDATE GENERATION RULES
+
+When generating repository persistence updates:
+
+1. ALWAYS read current repository files before proposing changes to existing files.
+
+2. NEVER assume an existing file’s structure, headings, tables, or formatting from memory.
+
+3. Preserve repository-established formatting unless explicitly directed otherwise by the pilot.
+
+Valid update actions:
+
+- NEWFILE
+  Full contents for newly created files.
+
+- OVERWRITE
+  Full replacement of an existing file.
+
+- OVERWRITE BLOCK
+  Replace only a specifically named existing section/block.
+
+- APPEND
+  Add content at an explicitly defined insertion point.
+
+- NO CHANGE
+  Explicitly state when a reviewed file requires no modification.
+
+For existing files:
+
+- match current formatting exactly
+- preserve markdown structure
+- preserve table formatting
+- preserve heading hierarchy
+- avoid summary-style flattening of structured documents
+
+Update generation workflow:
+
+1. read affected repository files
+2. compare mission outcomes against authoritative current state
+3. determine minimal required deltas
+4. generate repository-compatible updates only
+5. avoid modifying already-correct data
+
 ================================================================================
 SECTION 15 — OPERATIONAL LIMITS AND FUTURE SYSTEM BOUNDARIES
 ================================================================================
