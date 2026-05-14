@@ -70,7 +70,9 @@ operations/
 │
 └── archive/
     ├── career-state/
+    ├── data/
     ├── debriefs/
+    ├── exports/
     ├── legacy/
     ├── missions/
     ├── templates/
