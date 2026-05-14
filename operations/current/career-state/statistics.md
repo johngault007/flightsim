@@ -35,7 +35,7 @@
 | Mission Type | Count |
 |---|---:|
 | Premium Leisure Charter | 2 |
-| Executive Charter | 0 |
+| Executive Charter | 1 |
 | Cargo | 0 |
 | Reposition | 0 |
 | Ferry | 0 |
@@ -77,6 +77,12 @@ Mission 002:
 - tower-directed go-around
 - Naples operational expansion
 
+Mission 003:
+- executive charter from KAPF to KFXE
+- smooth South Florida regional operation
+- KFXE runway reassignment from expected RWY 27 to RWY 09
+- expanded Fort Lauderdale executive charter presence
+  
 ---
 
 ## Operational Trends
