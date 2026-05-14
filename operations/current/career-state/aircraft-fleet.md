@@ -21,15 +21,15 @@ MSFS 2024 Default Livery 1
 Active
 
 ### Current Location
-KFXE — Fort Lauderdale Executive
+KEYW — Key West International
 
 ### Parking
-GA Small Parking 53
+GA Ramp Small P14
 
 ### Fuel State
-- Left Wing: 19 gal
-- Right Wing: 16 gal
-- Total Fuel Remaining: 35 gal
+- Left Wing: 10 gal
+- Right Wing: 14 gal
+- Total Fuel Remaining: 24 gal
 
 ### Aircraft Condition
 - Secured
@@ -37,7 +37,7 @@ GA Small Parking 53
 - No discrepancies reported
 
 ### Last Completed Mission
-MISSION_003_KAPF_KFXE
+MISSION_004_KFXE_KEYW
 
 ---
 

@@ -29,8 +29,8 @@ Currently viable but not actively established:
 
 N401LB is currently positioned at:
 
-**KAPF — Naples Airport**  
-**Ramp: GA Small Parking 121**
+**KEYW — Key West International**  
+**Ramp: GA Ramp Small P14**
 
 ---
 
