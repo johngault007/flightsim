@@ -6,17 +6,17 @@
 
 | Category | Value |
 |---|---:|
-| Missions Completed | 3 |
-| Successful Missions | 3 |
+| Missions Completed | 4 |
+| Successful Missions | 4 |
 | Partial Successes | 0 |
 | Diversions | 0 |
 | Go-Arounds | 1 |
-| Total Flight Hours | 6.4 |
-| Estimated Fuel Consumed | 55 gal |
-| Total Passengers Transported | 5 |
+| Total Flight Hours | 7.3 |
+| Estimated Fuel Consumed | 66 gal |
+| Total Passengers Transported | 7 |
 | Repeat Clients | 2 |
 | Longest Mission | Mission 001 |
-| Shortest Mission | Mission 002 |
+| Shortest Mission | Mission 004 |
 
 ---
 
@@ -24,7 +24,7 @@
 
 | Flight Rules | Count |
 |---|---:|
-| VFR | 2 |
+| VFR | 4 |
 | IFR | 0 |
 | VFR with Flight Following | 2 |
 
@@ -34,7 +34,7 @@
 
 | Mission Type | Count |
 |---|---:|
-| Premium Leisure Charter | 2 |
+| Premium Leisure Charter | 3 |
 | Executive Charter | 1 |
 | Cargo | 0 |
 | Reposition | 0 |
@@ -51,6 +51,7 @@
 | KPNS | 1 |
 | KMTH | 1 |
 | KAPF | 1 |
+| KFXE | 1 |
 
 ### Arrivals
 
@@ -59,6 +60,7 @@
 | KMTH | 1 |
 | KAPF | 1 |
 | KFXE | 1 |
+| KEYW | 1 |
 
 ---
 
@@ -82,6 +84,12 @@ Mission 003:
 - smooth South Florida regional operation
 - KFXE runway reassignment from expected RWY 27 to RWY 09
 - expanded Fort Lauderdale executive charter presence
+
+Mission 004:
+- premium leisure charter from KFXE to KEYW
+- scenic Everglades / Keys routing
+- excellent passenger experience
+- strengthened Florida Keys continuity
   
 ---
 

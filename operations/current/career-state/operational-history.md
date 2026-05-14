@@ -123,3 +123,35 @@ Aircraft state:
 N401LB secured at KFXE GA parking.
 
 ---
+
+## 14 May 2026 — Mission 004 Completed
+
+Mission:
+MISSION_004_KFXE_KEYW
+
+Route:
+
+KFXE → KEYW
+
+Summary:
+
+Completed premium leisure charter from Fort Lauderdale Executive to Key West.
+
+Operational highlights:
+
+- premium leisure charter
+- scenic Everglades overflight
+- overwater Keys routing
+- pilot-refined arrival routing
+- coordinated VFR left base arrival RWY 27
+- excellent passenger experience
+- no discrepancies
+
+Post-mission aircraft state:
+
+- KEYW
+- GA Ramp Small P14
+- 24 gallons fuel remaining
+- No discrepancies
+
+---

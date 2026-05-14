@@ -16,8 +16,8 @@ KPNS — Pensacola International Airport
 
 ## Current Operating Position
 
-KAPF — Naples Airport  
-GA Small Parking 121
+KEYW — Key West International  
+GA Ramp Small P14
 
 ---
 
