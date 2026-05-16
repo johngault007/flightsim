@@ -4,16 +4,14 @@
 
 ## Current Totals
 
-| Category | Value |
-|---|---:|
-| Missions Completed | 4 |
-| Successful Missions | 4 |
+| Missions Completed | 5 |
+| Successful Missions | 5 |
 | Partial Successes | 0 |
 | Diversions | 0 |
 | Go-Arounds | 1 |
-| Total Flight Hours | 7.3 |
-| Estimated Fuel Consumed | 66 gal |
-| Total Passengers Transported | 7 |
+| Total Flight Hours | 8.8 |
+| Estimated Fuel Consumed | 82.97 gal |
+| Total Passengers Transported | 9 |
 | Repeat Clients | 2 |
 | Longest Mission | Mission 001 |
 | Shortest Mission | Mission 004 |
@@ -22,19 +20,16 @@
 
 ## Flight Rules Breakdown
 
-| Flight Rules | Count |
-|---|---:|
 | VFR | 4 |
 | IFR | 0 |
-| VFR with Flight Following | 2 |
+| VFR with Flight Following | 4 |
 
 ---
 
 ## Mission Type Breakdown
 
-| Mission Type | Count |
-|---|---:|
 | Premium Leisure Charter | 3 |
+| Premium Leisure International Charter | 1 |
 | Executive Charter | 1 |
 | Cargo | 0 |
 | Reposition | 0 |
@@ -52,6 +47,7 @@
 | KMTH | 1 |
 | KAPF | 1 |
 | KFXE | 1 |
+| KEYW | 1 |
 
 ### Arrivals
 
@@ -61,6 +57,15 @@
 | KAPF | 1 |
 | KFXE | 1 |
 | KEYW | 1 |
+| MYAM | 1 |
+
+---
+
+## International Operations
+
+| International Missions | 1 |
+| Countries Operated In | 2 |
+| First International Mission | Mission 005 |
 
 ---
 
@@ -90,6 +95,12 @@ Mission 004:
 - scenic Everglades / Keys routing
 - excellent passenger experience
 - strengthened Florida Keys continuity
+  
+Mission 005:
+- first international charter
+- first Bahamas arrival
+- first overwater premium leisure mission
+- Bennett premium leisure charter success
   
 ---
 

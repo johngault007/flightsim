@@ -16,8 +16,8 @@ KPNS — Pensacola International Airport
 
 ## Current Operating Position
 
-KEYW — Key West International  
-GA Ramp Small P14
+MYAM — Marsh Harbour  
+GA Ramp P51
 
 ---
 
