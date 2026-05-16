@@ -155,3 +155,31 @@ Post-mission aircraft state:
 - No discrepancies
 
 ---
+
+## 15 May 2026 — Mission 005 Completed
+
+Mission:
+MISSION_005_KEYW_MYAM
+
+Route:
+KEYW → MYAM
+
+Summary:
+Completed Lost Bay Aviation’s first international premium leisure charter from Key West to Marsh Harbour, Bahamas.
+
+Operational highlights:
+- first international charter
+- first overwater premium leisure mission
+- Miami Oceanic continuity
+- Bimini / Grand Bahama scenic exposure
+- premium passenger experience
+- direct VFR international arrival
+- no discrepancies
+
+Post-mission aircraft state:
+- MYAM
+- GA Ramp P51
+- 33.03 gallons fuel remaining
+- No discrepancies
+
+---

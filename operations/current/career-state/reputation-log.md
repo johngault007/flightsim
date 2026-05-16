@@ -136,3 +136,16 @@ Reputation impact:
 - Established high repeat-client potential with Whitmore clients
 
 ---
+
+## 15 May 2026 — Mission 005
+
+Completed Lost Bay Aviation’s first international premium leisure charter for Richard and Claire Bennett.
+
+Reputation impact:
+- established international operating credibility
+- strengthened premium leisure positioning
+- high repeat-client potential
+- strong referral potential
+- elevated boutique charter brand profile
+
+---
