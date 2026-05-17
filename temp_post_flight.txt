@@ -1,0 +1,13 @@
+Use branch missionXXX_post_flight_update.
+
+Process Mission XXX post-flight closeout from the flight/debrief context.
+
+Make the required repo updates only.
+Do not create an issue.
+Open a PR when complete.
+
+
+NOTES:
+- After the flight, open a branch and use the following prompt to write all the data to the repo:
+- No issue is needed to modify the data unless you really want one (more admin overhead)
+- You can have ChatGPT open a PR after completing all the other items, if you don't want that, ignore the last line
