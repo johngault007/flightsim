@@ -55,6 +55,24 @@ All current mission telemetry records are structured consistently enough for Iss
 
 ---
 
+## Distance Backfill Status
+
+Distance telemetry has been backfilled for Missions 001–005 using pilot-provided / planner-supported values.
+
+| Mission | Distance NM |
+|---|---:|
+| `MISSION_001_KPNS_KMTH` | 550 |
+| `MISSION_002_KMTH_KAPF` | 181 |
+| `MISSION_003_KAPF_KFXE` | 87 |
+| `MISSION_004_KFXE_KEYW` | 160 |
+| `MISSION_005_KEYW_MYAM` | 283 |
+
+Mission 002 route correction:
+
+`WINNER` was corrected to `WNNER` in telemetry and mission markdown.
+
+---
+
 ## Analytics Capability Matrix
 
 | Metric / Query | Current Readiness | Notes |
@@ -70,39 +88,21 @@ All current mission telemetry records are structured consistently enough for Iss
 | International operation count | Ready | Use `operations.international` |
 | Airport activity | Ready | Use `route.departure` and `route.arrival` |
 | Passenger totals | Ready | Use `payload.passengers` |
+| Total distance flown | Ready | Use `route.distance_nm` |
+| Average mission distance | Ready | Use `route.distance_nm` |
+| Passenger miles | Ready | Use `route.distance_nm` and `payload.passengers` |
 | Known cargo totals | Partially ready | Sum only non-null `payload.cargo_lb`; report incomplete data where null exists |
 | Total fuel used | Partially ready | Sum only non-null `fuel.used_gal`; Mission 003 currently has `null` fuel used |
 | Average fuel burn | Partially ready | Requires known `fuel.used_gal` and timing values; nulls must be excluded or reported |
 | Average mission duration | Partially ready | Some missions have null timing durations |
-| Total distance flown | Not ready | `route.distance_nm` is currently null for Missions 001–005 |
-| Average mission distance | Not ready | Depends on `route.distance_nm` capture |
-| NM per gallon | Not ready | Depends on both distance and fuel used |
-| Passenger miles | Not ready | Depends on distance and passengers |
-| Cargo efficiency metrics | Not ready | Depends on distance and known cargo values |
+| NM per gallon | Partially ready | Distance is available, but Mission 003 has `fuel.used_gal: null` |
+| Cargo efficiency metrics | Partially ready | Distance is available, but some cargo values are `null` |
 
 ---
 
 ## Known Data Gaps
 
-The telemetry layer is architecturally ready, but current backfilled data has known gaps from historical source records.
-
-### Distance
-
-`route.distance_nm` is currently `null` for Missions 001–005.
-
-Impact:
-
-- total distance flown cannot be calculated yet
-- average mission distance cannot be calculated yet
-- NM per gallon cannot be calculated yet
-- passenger miles cannot be calculated yet
-- cargo transport efficiency cannot be calculated yet
-
-Recommended handling:
-
-- do not calculate distance from route strings unless explicitly approved
-- future PIREPs should capture approved/planned distance and actual/flown distance when available
-- historical distances may be backfilled later from approved flight plans if available
+The telemetry layer is architecturally ready, but current backfilled data still has some gaps from historical source records.
 
 ### Fuel Used
 
@@ -112,6 +112,7 @@ Impact:
 
 - total fuel used can be reported as known total with incomplete-data warning
 - full career fuel total remains incomplete until the value is supported
+- NM per gallon can be calculated for missions with both distance and fuel used, but career-wide NM per gallon should include an incomplete-data caveat
 
 Recommended handling:
 
@@ -125,7 +126,7 @@ Some missions have `payload.cargo_lb: null` where records contain descriptive ba
 Impact:
 
 - total cargo transported can be reported as known cargo total with incomplete-data warning
-- cargo efficiency metrics remain incomplete where cargo or distance is missing
+- cargo efficiency metrics remain incomplete where cargo is missing
 
 Recommended handling:
 
@@ -213,12 +214,11 @@ Issue #39 should update the FlightOps prompt so future mission closeout workflow
 
 ## Follow-Up Gaps
 
-No blocking follow-up task is required for Issue #37.
+No blocking follow-up task is required for Issue #37 or Issue #35 distance readiness.
 
 Potential future follow-up if desired:
 
-- backfill `route.distance_nm` for Missions 001–005 from approved/flown flight plans if those distances become available
 - backfill Mission 003 `fuel.used_gal` only if pilot-confirmed or supported by a source update
 - add debrief file references to `source_files.debrief` if debrief paths are standardized
 
-These are data completeness improvements, not blockers for telemetry architecture readiness.
+These are data completeness improvements, not blockers for telemetry analytics readiness.
