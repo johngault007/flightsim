@@ -2,7 +2,8 @@ schema_version: 1
 updated_utc: "YYYY-MM-DDTHH:MM:SSZ"
 
 clients:
-  client_id:
+  client_00001:
+    client_id: "00001"
     display_name: "Client Name"
     status: "active"
     client_type: "unknown"
@@ -27,4 +28,4 @@ clients:
       - date_utc: null
         source: null
         text: |
-          
+          Placeholder continuity note text.
