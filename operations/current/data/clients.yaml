@@ -6,37 +6,286 @@
 # Append mission-derived notes rather than overwriting useful continuity history.
 
 schema_version: 1
-updated_utc: "YYYY-MM-DDTHH:MM:SSZ"
+updated_utc: "2026-05-17T17:09:48Z"
 
 clients:
   client_00001:
     client_id: "00001"
-    display_name: "Client Name"
+    display_name: "Chad Johnson"
     status: "active"
-    client_type: "unknown"
+    client_type: "premium_leisure"
+    vip_status: "unknown"
+    known_weight_lb: 200
+
+    first_mission: "MISSION_001_KPNS_KMTH"
+    last_mission: "MISSION_002_KMTH_KAPF"
+    repeat_count: 2
+
+    preferred_regions:
+      - "Florida Keys"
+      - "South Florida"
+      - "Southwest Florida"
+    flight_preferences:
+      - "Aviation-curious"
+      - "Enjoys observing airline traffic from above"
+    operational_considerations:
+      - "Seat aft unless operationally appropriate due to frequent cockpit/system curiosity."
+      - "May ask many cockpit and systems questions."
+
+    mission_history:
+      - mission_id: "MISSION_001_KPNS_KMTH"
+        date: "2026-05-11"
+        route: "KPNS → KMTH"
+        departure: "KPNS"
+        arrival: "KMTH"
+        mission_type: "premium_leisure_charter"
+        role: "client"
+        notes: "Pilot-confirmed Mission 001 client; detailed client lore not yet captured in the original mission record."
+      - mission_id: "MISSION_002_KMTH_KAPF"
+        date: "2026-05-13"
+        route: "KMTH → KAPF"
+        departure: "KMTH"
+        arrival: "KAPF"
+        mission_type: "premium_leisure_return_charter"
+        role: "client"
+        notes: "Repeat premium leisure client; seated aft due to cockpit curiosity."
+
+    continuity_notes:
+      - date_utc: "2026-05-11"
+        source: "pilot-confirmed backfill / MISSION_001_KPNS_KMTH"
+        text: |
+          Chad Johnson was pilot-confirmed as one of the Mission 001 clients.
+          The original Mission 001 record identifies two premium leisure passengers but does not name them,
+          because detailed client continuity had not yet been introduced.
+      - date_utc: "2026-05-13"
+        source: "MISSION_002_KMTH_KAPF"
+        text: |
+          Mission 002 identifies Chad as a repeat premium leisure client.
+          Existing records support his weight, aviation curiosity, cockpit/system questions,
+          aft seating recommendation, and interest in observing airline traffic.
+
+  client_00002:
+    client_id: "00002"
+    display_name: "Nancy Johnson"
+    status: "active"
+    client_type: "premium_leisure"
+    vip_status: "unknown"
+    known_weight_lb: 160
+
+    first_mission: "MISSION_001_KPNS_KMTH"
+    last_mission: "MISSION_002_KMTH_KAPF"
+    repeat_count: 2
+
+    preferred_regions:
+      - "Florida Keys"
+      - "South Florida"
+      - "Southwest Florida"
+    flight_preferences:
+      - "Scenery-focused"
+      - "Enjoys photo opportunities and scenic routing"
+    operational_considerations:
+      - "Calm passenger profile."
+      - "Seated aft with Chad Johnson during Mission 002."
+
+    mission_history:
+      - mission_id: "MISSION_001_KPNS_KMTH"
+        date: "2026-05-11"
+        route: "KPNS → KMTH"
+        departure: "KPNS"
+        arrival: "KMTH"
+        mission_type: "premium_leisure_charter"
+        role: "client"
+        notes: "Pilot-confirmed Mission 001 client; detailed client lore not yet captured in the original mission record."
+      - mission_id: "MISSION_002_KMTH_KAPF"
+        date: "2026-05-13"
+        route: "KMTH → KAPF"
+        departure: "KMTH"
+        arrival: "KAPF"
+        mission_type: "premium_leisure_return_charter"
+        role: "client"
+        notes: "Repeat premium leisure client; scenery-focused and seated aft with Chad Johnson."
+
+    continuity_notes:
+      - date_utc: "2026-05-11"
+        source: "pilot-confirmed backfill / MISSION_001_KPNS_KMTH"
+        text: |
+          Nancy Johnson was pilot-confirmed as one of the Mission 001 clients.
+          The original Mission 001 record identifies two premium leisure passengers but does not name them,
+          because detailed client continuity had not yet been introduced.
+      - date_utc: "2026-05-13"
+        source: "MISSION_002_KMTH_KAPF"
+        text: |
+          Mission 002 identifies Nancy as a repeat premium leisure client.
+          Existing records support her weight, scenery-focused passenger profile,
+          calm demeanor, and interest in photo opportunities and scenic routing.
+
+  client_00003:
+    client_id: "00003"
+    display_name: "Elias Mercer"
+    status: "active"
+    client_type: "executive"
     vip_status: "unknown"
     known_weight_lb: null
 
-    first_mission: null
-    last_mission: null
-    repeat_count: 0
+    first_mission: "MISSION_003_KAPF_KFXE"
+    last_mission: "MISSION_003_KAPF_KFXE"
+    repeat_count: 1
 
     preferred_regions: []
     flight_preferences: []
     operational_considerations: []
 
     mission_history:
-      - mission_id: null
-        date: null
-        route: null
-        departure: null
-        arrival: null
-        mission_type: null
-        role: null
-        notes: null
+      - mission_id: "MISSION_003_KAPF_KFXE"
+        date: "2026-05-14"
+        route: "KAPF → KFXE"
+        departure: "KAPF"
+        arrival: "KFXE"
+        mission_type: "executive_charter"
+        role: "client"
+        notes: "Private executive charter client transported from Naples to Fort Lauderdale Executive."
 
     continuity_notes:
-      - date_utc: null
-        source: null
+      - date_utc: "2026-05-14"
+        source: "MISSION_003_KAPF_KFXE"
         text: |
-          Placeholder continuity note text.
+          Elias Mercer was the private client for the Mission 003 executive charter.
+          Existing records do not specify weight, VIP status, or personal flight preferences.
+
+  client_00004:
+    client_id: "00004"
+    display_name: "Emily Whitmore"
+    status: "active"
+    client_type: "premium_leisure"
+    vip_status: "unknown"
+    known_weight_lb: null
+
+    first_mission: "MISSION_004_KFXE_KEYW"
+    last_mission: "MISSION_004_KFXE_KEYW"
+    repeat_count: 1
+
+    preferred_regions: []
+    flight_preferences: []
+    operational_considerations: []
+
+    mission_history:
+      - mission_id: "MISSION_004_KFXE_KEYW"
+        date: "2026-05-14"
+        route: "KFXE → KEYW"
+        departure: "KFXE"
+        arrival: "KEYW"
+        mission_type: "premium_leisure_charter"
+        role: "client"
+        notes: "Premium leisure charter client transported from Fort Lauderdale Executive to Key West."
+
+    continuity_notes:
+      - date_utc: "2026-05-14"
+        source: "MISSION_004_KFXE_KEYW"
+        text: |
+          Emily Whitmore was one of the named clients for Mission 004.
+          The mission record confirms premium leisure charter context and passenger count.
+          Individual passenger weights are not mapped by name in the source record.
+
+  client_00005:
+    client_id: "00005"
+    display_name: "Daniel Whitmore"
+    status: "active"
+    client_type: "premium_leisure"
+    vip_status: "unknown"
+    known_weight_lb: null
+
+    first_mission: "MISSION_004_KFXE_KEYW"
+    last_mission: "MISSION_004_KFXE_KEYW"
+    repeat_count: 1
+
+    preferred_regions: []
+    flight_preferences: []
+    operational_considerations: []
+
+    mission_history:
+      - mission_id: "MISSION_004_KFXE_KEYW"
+        date: "2026-05-14"
+        route: "KFXE → KEYW"
+        departure: "KFXE"
+        arrival: "KEYW"
+        mission_type: "premium_leisure_charter"
+        role: "client"
+        notes: "Premium leisure charter client transported from Fort Lauderdale Executive to Key West."
+
+    continuity_notes:
+      - date_utc: "2026-05-14"
+        source: "MISSION_004_KFXE_KEYW"
+        text: |
+          Daniel Whitmore was one of the named clients for Mission 004.
+          The mission record confirms premium leisure charter context and passenger count.
+          Individual passenger weights are not mapped by name in the source record.
+
+  client_00006:
+    client_id: "00006"
+    display_name: "Richard Bennett"
+    status: "active"
+    client_type: "premium_leisure_international"
+    vip_status: "unknown"
+    known_weight_lb: null
+
+    first_mission: "MISSION_005_KEYW_MYAM"
+    last_mission: "MISSION_005_KEYW_MYAM"
+    repeat_count: 1
+
+    preferred_regions: []
+    flight_preferences: []
+    operational_considerations: []
+
+    mission_history:
+      - mission_id: "MISSION_005_KEYW_MYAM"
+        date: "2026-05-15"
+        route: "KEYW → MYAM"
+        departure: "KEYW"
+        arrival: "MYAM"
+        mission_type: "premium_leisure_international_charter"
+        role: "client"
+        notes: "Premium leisure international charter client transported from Key West to Marsh Harbour."
+
+    continuity_notes:
+      - date_utc: "2026-05-15"
+        source: "MISSION_005_KEYW_MYAM"
+        text: |
+          Richard Bennett was one of the named clients for Mission 005, Lost Bay Aviation's
+          first international premium leisure charter. Passenger signals included surprise
+          at rapid transit time, spontaneous Bimini vacation interest, and strong positive engagement.
+          Individual passenger weights are not mapped by name in the source record.
+
+  client_00007:
+    client_id: "00007"
+    display_name: "Claire Bennett"
+    status: "active"
+    client_type: "premium_leisure_international"
+    vip_status: "unknown"
+    known_weight_lb: null
+
+    first_mission: "MISSION_005_KEYW_MYAM"
+    last_mission: "MISSION_005_KEYW_MYAM"
+    repeat_count: 1
+
+    preferred_regions: []
+    flight_preferences: []
+    operational_considerations: []
+
+    mission_history:
+      - mission_id: "MISSION_005_KEYW_MYAM"
+        date: "2026-05-15"
+        route: "KEYW → MYAM"
+        departure: "KEYW"
+        arrival: "MYAM"
+        mission_type: "premium_leisure_international_charter"
+        role: "client"
+        notes: "Premium leisure international charter client transported from Key West to Marsh Harbour."
+
+    continuity_notes:
+      - date_utc: "2026-05-15"
+        source: "MISSION_005_KEYW_MYAM"
+        text: |
+          Claire Bennett was one of the named clients for Mission 005, Lost Bay Aviation's
+          first international premium leisure charter. Passenger signals included surprise
+          at rapid transit time, spontaneous Bimini vacation interest, and strong positive engagement.
+          Individual passenger weights are not mapped by name in the source record.
