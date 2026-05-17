@@ -1,0 +1,52 @@
+schema_version: 1
+mission_id: "MISSION_001_KPNS_KMTH"
+mission_number: 1
+date: "2026-05-11"
+
+aircraft:
+  tail_number: "N401LB"
+  type: "Cessna 400 Corvalis TT"
+
+route:
+  departure: "KPNS"
+  arrival: "KMTH"
+  planned_route: null
+  flown_route: "coastal_vfr_routing"
+  distance_nm: null
+
+timing:
+  out_utc: "1536Z"
+  off_utc: "1546Z"
+  toc_utc: null
+  tod_utc: null
+  on_utc: null
+  in_utc: null
+  shutdown_utc: null
+  block_time_hr: null
+  airborne_time_hr: null
+
+fuel:
+  departure_gal: 54.0
+  arrival_gal: 16.1
+  used_gal: 32.9
+  uplift_gal: null
+
+payload:
+  passengers: 2
+  cargo_lb: null
+
+operations:
+  mission_type: "premium_leisure_charter"
+  flight_rules: "vfr_with_flight_following"
+  result: "success"
+  diversions: 0
+  go_arounds: 0
+  international: false
+
+client_refs:
+  - "client_00001"
+  - "client_00002"
+
+source_files:
+  mission: "operations/current/missions/2026/MISSION_001_KPNS_KMTH.md"
+  debrief: null

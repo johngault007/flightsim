@@ -1,0 +1,51 @@
+schema_version: 1
+mission_id: "MISSION_003_KAPF_KFXE"
+mission_number: 3
+date: "2026-05-14"
+
+aircraft:
+  tail_number: "N401LB"
+  type: "Cessna 400 Corvalis TT"
+
+route:
+  departure: "KAPF"
+  arrival: "KFXE"
+  planned_route: null
+  flown_route: "KAPF KBUNK JMACA KFXE"
+  distance_nm: null
+
+timing:
+  out_utc: "1832Z"
+  off_utc: "1837Z"
+  toc_utc: null
+  tod_utc: null
+  on_utc: "1909Z"
+  in_utc: "1912Z"
+  shutdown_utc: null
+  block_time_hr: 1.7
+  airborne_time_hr: 1.5
+
+fuel:
+  departure_gal: 40.0
+  arrival_gal: 35.0
+  used_gal: null
+  uplift_gal: null
+
+payload:
+  passengers: 1
+  cargo_lb: null
+
+operations:
+  mission_type: "executive_charter"
+  flight_rules: "vfr"
+  result: "success"
+  diversions: 0
+  go_arounds: 0
+  international: false
+
+client_refs:
+  - "client_00003"
+
+source_files:
+  mission: "operations/current/missions/2026/MISSION_003_KAPF_KFXE.md"
+  debrief: null

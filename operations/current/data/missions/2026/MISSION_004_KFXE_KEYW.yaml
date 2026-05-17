@@ -1,0 +1,52 @@
+schema_version: 1
+mission_id: "MISSION_004_KFXE_KEYW"
+mission_number: 4
+date: "2026-05-14"
+
+aircraft:
+  tail_number: "N401LB"
+  type: "Cessna 400 Corvalis TT"
+
+route:
+  departure: "KFXE"
+  arrival: "KEYW"
+  planned_route: "KFXE VKZ BHHIA PALMZ EYW KEYW"
+  flown_route: "KFXE BHHIA PALMZ PIBDE KEYW"
+  distance_nm: null
+
+timing:
+  out_utc: "1935Z"
+  off_utc: "1942Z"
+  toc_utc: null
+  tod_utc: null
+  on_utc: "2024Z"
+  in_utc: "2027Z"
+  shutdown_utc: null
+  block_time_hr: 0.9
+  airborne_time_hr: 0.7
+
+fuel:
+  departure_gal: 35.0
+  arrival_gal: 24.0
+  used_gal: 11.0
+  uplift_gal: null
+
+payload:
+  passengers: 2
+  cargo_lb: 100
+
+operations:
+  mission_type: "premium_leisure_charter"
+  flight_rules: "vfr"
+  result: "success"
+  diversions: 0
+  go_arounds: 0
+  international: false
+
+client_refs:
+  - "client_00004"
+  - "client_00005"
+
+source_files:
+  mission: "operations/current/missions/2026/MISSION_004_KFXE_KEYW.md"
+  debrief: null
