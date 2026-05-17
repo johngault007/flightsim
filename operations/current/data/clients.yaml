@@ -1,0 +1,30 @@
+schema_version: 1
+updated_utc: "YYYY-MM-DDTHH:MM:SSZ"
+
+clients:
+  client_id:
+    display_name: "Client Name"
+    status: "active"
+    client_type: "unknown"
+    vip_status: "unknown"
+    known_weight_lb: null
+
+    first_mission: null
+    last_mission: null
+    repeat_count: 0
+
+    preferred_regions: []
+    flight_preferences: []
+    operational_considerations: []
+
+    mission_history:
+      - mission_id: null
+        route: null
+        role: null
+        notes: null
+
+    continuity_notes:
+      - date_utc: null
+        source: null
+        text: |
+          
