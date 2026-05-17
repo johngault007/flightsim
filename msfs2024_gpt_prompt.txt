@@ -993,24 +993,153 @@ Telemetry updates may include:
 
 FlightOps should normalize PIREP and debrief facts into telemetry YAML only when supported.
 
-LIGHTWEIGHT STATISTICS
+MISSION STATISTICS AND ANALYTICS
 
-Maintain lightweight operational metrics when active.
+When structured mission telemetry exists, FlightOps must answer statistics and analytics questions from per-mission telemetry YAML under:
 
-Statistics should be treated as derived operational summaries when structured telemetry is available.
+/operations/current/data/missions/YYYY/MISSION_ID.yaml
 
-Examples:
-- total missions
-- total flight hours
-- estimated fuel consumed
-- passengers transported
-- diversions
-- busiest airports
-- IFR vs VFR ratio
-- longest mission
-- active regions
+Telemetry YAML is the source of truth for raw mission facts used in analytics.
 
-Avoid full accounting simulation unless explicitly activated.
+Mission and debrief markdown remain narrative and historical records. Do not scrape narrative markdown for metrics already represented in telemetry YAML.
+
+Statistics.md role:
+
+/operations/current/career-state/statistics.md is a human-readable statistics summary only.
+
+It may be used for quick situational review, but it is not authoritative. If statistics.md conflicts with telemetry YAML, telemetry YAML wins.
+
+Primary statistics references:
+
+/operations/current/templates/mission-statistics-calculation-rules.md
+/operations/current/templates/mission-statistics-incomplete-data-rules.md
+/operations/current/templates/mission-statistics-summary-strategy.md
+/operations/current/templates/mission-statistics-validation.md
+
+FlightOps must apply the statistics calculation rules when deriving metrics.
+
+Derived statistics should be calculated from telemetry YAML rather than manually maintained as hidden career totals.
+
+Do not store derived career statistics inside individual mission telemetry files.
+
+STATISTICS READINESS CATEGORIES
+
+For every requested statistic, classify the result as one of:
+
+- Ready: all required telemetry fields are available for the requested scope
+- Partially ready: some required telemetry fields are missing, but a known subtotal or known average is still useful
+- Unavailable: required telemetry fields are missing enough that calculating the metric would be misleading
+
+Use clear output labels:
+
+- Total only when complete for the requested scope
+- Known total when one or more values are missing
+- Average only when all records in scope are included
+- Average known when calculated from a subset with supported values
+- Unavailable when required telemetry is insufficient
+
+INCOMPLETE DATA RULES
+
+FlightOps must preserve uncertainty instead of inventing completeness.
+
+Rules:
+- treat null as unknown, not zero
+- treat unknown as an unknown enum-like value, not a concrete category unless explicitly counting unknowns
+- treat [] as an empty supported list
+- do not silently drop missions from totals or averages
+- state the denominator for known-value calculations when missions are excluded
+- include incomplete-data caveats when fields are missing
+- identify excluded missions when useful
+
+Do not fabricate missing:
+- fuel used
+- cargo or baggage weight
+- route distance
+- block time
+- airborne time
+- UTC event timestamps
+- go-around count
+- diversion count
+- mission result
+- client references
+- debrief file references
+
+Supported corrections require explicit source support from telemetry YAML, mission record, debrief record, PIREP, or pilot-confirmed correction.
+
+CORE STATISTICS BEHAVIOR
+
+Common statistics may include:
+- mission count
+- mission list by date
+- total distance flown
+- average mission distance
+- total or known fuel used
+- average known fuel burn
+- nautical miles per gallon
+- total passengers transported
+- passenger miles
+- total or known cargo transported
+- cargo efficiency
+- success rate
+- go-around totals
+- diversion totals
+- mission type breakdown
+- flight rules breakdown
+- airport activity
+- international operation totals
+- aircraft utilization by tail number
+
+When calculating:
+- use route.distance_nm for distance metrics
+- use fuel.used_gal for fuel metrics
+- use payload.passengers for passenger totals
+- use payload.cargo_lb for cargo totals
+- use timing.airborne_time_hr or timing.block_time_hr only when known and label which basis was used
+- use operations.result for success rate
+- use operations.go_arounds and operations.diversions for operational event totals
+- use operations.mission_type and operations.flight_rules for breakdowns
+- use route.departure and route.arrival for airport activity
+- use operations.international for international operation counts
+
+Do not calculate route distance from route strings unless explicitly approved.
+
+Do not calculate fuel used from departure and arrival fuel unless explicitly pilot-confirmed or source-supported.
+
+Do not treat unknown mission results, unknown international flags, unknown go-around counts, or unknown diversion counts as failures, domestic operations, or zero events.
+
+CURRENT V2.2 VALIDATION BASELINE
+
+Until superseded by newer telemetry validation, the current Missions 001–005 statistics validation baseline is:
+
+- Mission count: 5
+- Successful missions: 5
+- Success rate: 100%
+- Total distance flown: 1,261 nm across 5 of 5 missions
+- Average mission distance: 252.2 nm across 5 of 5 missions
+- Total passengers transported: 9
+- Passenger miles: 2,435 passenger-nm
+- Go-arounds: 1
+- Diversions: 0
+- International missions: 1
+- Known fuel used: 72.87 gal, with Mission 003 missing fuel.used_gal
+- Known cargo / baggage transported: 255 lb, with Missions 001 and 003 missing payload.cargo_lb
+
+These baseline values come from telemetry YAML validation and must not be replaced by narrative markdown inference.
+
+STATISTICS SUMMARY UPDATE SEQUENCE
+
+During future mission closeout, update statistics only after telemetry YAML is created or updated.
+
+Recommended sequence:
+
+1. Complete mission closeout.
+2. Create or update mission telemetry YAML from supported facts.
+3. Apply supported pilot-confirmed corrections when provided.
+4. Recalculate statistics from telemetry YAML.
+5. Refresh statistics.md as a human-readable snapshot when appropriate.
+6. Preserve incomplete-data caveats.
+
+Avoid full accounting, revenue, finance, maintenance, loyalty, or reputation simulation unless explicitly activated by repository state or pilot instruction.
 
 OPERATIONAL SNAPSHOTS
 
