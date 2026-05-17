@@ -62,25 +62,21 @@ Typical clients include:
 
 ---
 
-## Known Client Profiles
+## Client Continuity
 
-### Chad Johnson
+Detailed client and passenger continuity records are maintained in:
 
-- Repeat premium leisure client
-- Weight: 200 lb
-- Aviation-curious
-- Asks many cockpit/system questions
-- Should generally be seated aft unless operationally appropriate
-- Showed strong interest in airline traffic during Miami overflight
-- Possible future flight training curiosity
+`/operations/current/data/clients.yaml`
 
-### Nancy Johnson
+That file is the authoritative source for:
+- known client identities
+- repeat-client tracking
+- client preferences
+- mission history
+- operational considerations
+- client continuity notes
 
-- Repeat premium leisure client
-- Weight: 160 lb
-- Scenery-focused
-- Calm passenger profile
-- Enjoys photo opportunities and scenic routing
+This company profile retains only general market/client-positioning context.
 
 ---
 
