@@ -1,0 +1,42 @@
+# Client Continuity Data
+# Authoritative structured client record for Lost Bay Aviation.
+# Use null for unknown scalar values.
+# Use empty lists when no supported entries exist.
+# Do not fabricate unsupported client preferences, weights, VIP status, or history.
+# Append mission-derived notes rather than overwriting useful continuity history.
+
+schema_version: 1
+updated_utc: "YYYY-MM-DDTHH:MM:SSZ"
+
+clients:
+  client_00001:
+    client_id: "00001"
+    display_name: "Client Name"
+    status: "active"
+    client_type: "unknown"
+    vip_status: "unknown"
+    known_weight_lb: null
+
+    first_mission: null
+    last_mission: null
+    repeat_count: 0
+
+    preferred_regions: []
+    flight_preferences: []
+    operational_considerations: []
+
+    mission_history:
+      - mission_id: null
+        date: null
+        route: null
+        departure: null
+        arrival: null
+        mission_type: null
+        role: null
+        notes: null
+
+    continuity_notes:
+      - date_utc: null
+        source: null
+        text: |
+          Placeholder continuity note text.
