@@ -1,0 +1,52 @@
+schema_version: 1
+mission_id: "MISSION_002_KMTH_KAPF"
+mission_number: 2
+date: "2026-05-13"
+
+aircraft:
+  tail_number: "N401LB"
+  type: "Cessna 400 Corvalis TT"
+
+route:
+  departure: "KMTH"
+  arrival: "KAPF"
+  planned_route: "KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF"
+  flown_route: "KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF"
+  distance_nm: null
+
+timing:
+  out_utc: null
+  off_utc: null
+  toc_utc: null
+  tod_utc: null
+  on_utc: null
+  in_utc: null
+  shutdown_utc: null
+  block_time_hr: null
+  airborne_time_hr: null
+
+fuel:
+  departure_gal: 40.0
+  arrival_gal: 28.0
+  used_gal: 12.0
+  uplift_gal: 24.0
+
+payload:
+  passengers: 2
+  cargo_lb: 60
+
+operations:
+  mission_type: "premium_leisure_return_charter"
+  flight_rules: "vfr_with_flight_following"
+  result: "success"
+  diversions: 0
+  go_arounds: 1
+  international: false
+
+client_refs:
+  - "client_00001"
+  - "client_00002"
+
+source_files:
+  mission: "operations/current/missions/2026/MISSION_002_KMTH_KAPF.md"
+  debrief: null
