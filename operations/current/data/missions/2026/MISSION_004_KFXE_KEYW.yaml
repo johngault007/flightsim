@@ -12,7 +12,7 @@ route:
   arrival: "KEYW"
   planned_route: "KFXE VKZ BHHIA PALMZ EYW KEYW"
   flown_route: "KFXE BHHIA PALMZ PIBDE KEYW"
-  distance_nm: null
+  distance_nm: 160
 
 timing:
   out_utc: "1935Z"
