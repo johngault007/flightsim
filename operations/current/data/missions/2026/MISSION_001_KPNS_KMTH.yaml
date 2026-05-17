@@ -10,9 +10,9 @@ aircraft:
 route:
   departure: "KPNS"
   arrival: "KMTH"
-  planned_route: null
-  flown_route: "coastal_vfr_routing"
-  distance_nm: null
+  planned_route: "KPNS CEW CTY SRQ KMTH"
+  flown_route: "KPNS CEW CTY SRQ KMTH"
+  distance_nm: 550
 
 timing:
   out_utc: "1536Z"

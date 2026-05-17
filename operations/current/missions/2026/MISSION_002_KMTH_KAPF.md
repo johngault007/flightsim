@@ -177,7 +177,7 @@ Mission highlights included:
 ### Actual Route
 
 ```text
-KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF
+KMTH MHIWX MNAWX WNNER VKZ BHHIA PALMZ CULMA KAPF
 ```
 
 ### Routing Notes

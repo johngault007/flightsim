@@ -12,7 +12,7 @@ route:
   arrival: "KFXE"
   planned_route: null
   flown_route: "KAPF KBUNK JMACA KFXE"
-  distance_nm: null
+  distance_nm: 87
 
 timing:
   out_utc: "1832Z"
