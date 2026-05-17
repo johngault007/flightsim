@@ -1,0 +1,52 @@
+schema_version: 1
+mission_id: "MISSION_005_KEYW_MYAM"
+mission_number: 5
+date: "2026-05-15"
+
+aircraft:
+  tail_number: "N401LB"
+  type: "Cessna 400 Corvalis TT"
+
+route:
+  departure: "KEYW"
+  arrival: "MYAM"
+  planned_route: "KEYW HEVEL NOLEE BIPIN GUCEL TAZER ZBV KOUGH HONEX MYAM"
+  flown_route: "KEYW HEVEL NOLEE BIPIN GUCEL TAZER ZBV KOUGH HONEX WOMIS MYAM"
+  distance_nm: null
+
+timing:
+  out_utc: "1331Z"
+  off_utc: "1335Z"
+  toc_utc: "1349Z"
+  tod_utc: "1451Z"
+  on_utc: "1502Z"
+  in_utc: "1506Z"
+  shutdown_utc: "1509Z"
+  block_time_hr: 1.6
+  airborne_time_hr: 1.5
+
+fuel:
+  departure_gal: 50.0
+  arrival_gal: 33.03
+  used_gal: 16.97
+  uplift_gal: null
+
+payload:
+  passengers: 2
+  cargo_lb: 95
+
+operations:
+  mission_type: "premium_leisure_international_charter"
+  flight_rules: "vfr_with_flight_following"
+  result: "success"
+  diversions: 0
+  go_arounds: 0
+  international: true
+
+client_refs:
+  - "client_00006"
+  - "client_00007"
+
+source_files:
+  mission: "operations/current/missions/2026/MISSION_005_KEYW_MYAM.md"
+  debrief: null
