@@ -10,9 +10,9 @@ aircraft:
 route:
   departure: "KMTH"
   arrival: "KAPF"
-  planned_route: "KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF"
-  flown_route: "KMTH MHIWX MNAWX WINNER VKZ BHHIA PALMZ CULMA KAPF"
-  distance_nm: null
+  planned_route: "KMTH MHIWX MNAWX WNNER VKZ BHHIA PALMZ CULMA KAPF"
+  flown_route: "KMTH MHIWX MNAWX WNNER VKZ BHHIA PALMZ CULMA KAPF"
+  distance_nm: 181
 
 timing:
   out_utc: null
