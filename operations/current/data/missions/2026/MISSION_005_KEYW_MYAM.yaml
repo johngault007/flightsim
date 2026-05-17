@@ -12,7 +12,7 @@ route:
   arrival: "MYAM"
   planned_route: "KEYW HEVEL NOLEE BIPIN GUCEL TAZER ZBV KOUGH HONEX MYAM"
   flown_route: "KEYW HEVEL NOLEE BIPIN GUCEL TAZER ZBV KOUGH HONEX WOMIS MYAM"
-  distance_nm: null
+  distance_nm: 283
 
 timing:
   out_utc: "1331Z"
